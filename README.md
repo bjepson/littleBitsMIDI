@@ -5,7 +5,7 @@ This script takes the output of midicsv and creates two arrays and
 a variable you can use with a modified version of Manny Alvear's
 project from RadioShack. 
 
-Step 1: Get Manny's project working: http://blog.radioshack.com/2014/12/maker-monday-project-littlebits-synth-kit/
+Step 1: Get Manny's project working: https://web.archive.org/web/20150414032636/http://blog.radioshack.com/2014/12/maker-monday-project-littlebits-synth-kit/
 
 Step 2: Install midicsv: http://www.fourmilab.ch/webtools/midicsv/
 
